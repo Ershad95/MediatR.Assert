@@ -2,6 +2,7 @@ using ApplicationLayer;
 using MediatR;
 using MediatR.Assert;
 using MediatR.Assert.Extensions;
+using MediatR.Assert.Validators;
 using Xunit;
 
 namespace Application.UnitTest;

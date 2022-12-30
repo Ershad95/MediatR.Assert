@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace MediatR.Assert
+namespace MediatR.Assert.Validators
 {
     public class NotificationValidator : IValidation
     {

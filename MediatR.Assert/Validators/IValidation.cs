@@ -1,4 +1,4 @@
-namespace MediatR.Assert
+namespace MediatR.Assert.Validators
 {
     internal interface IValidation
     {

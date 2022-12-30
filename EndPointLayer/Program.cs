@@ -2,6 +2,7 @@
 
 using ApplicationLayer;
 using MediatR.Assert;
+using MediatR.Assert.Validators;
 
 _=new ErshadCommand();
 

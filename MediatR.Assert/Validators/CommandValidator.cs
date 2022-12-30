@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using System.Transactions;
 
-namespace MediatR.Assert
+namespace MediatR.Assert.Validators
 {
     public class CommandValidator : IValidation
     {
