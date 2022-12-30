@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\EndPointLayer\\EndPointLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\ApplicationLayer\\ApplicationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectName": "ApplicationLayer",
+        "projectPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\ApplicationLayer\\ApplicationLayer.csproj",
+        "packagesPath": "C:\\Users\\Ershad Raoufi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\ApplicationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ershad Raoufi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\EndPointLayer\\EndPointLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\EndPointLayer\\EndPointLayer.csproj",
+        "projectName": "EndPointLayer",
+        "projectPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\EndPointLayer\\EndPointLayer.csproj",
+        "packagesPath": "C:\\Users\\Ershad Raoufi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\EndPointLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ershad Raoufi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\ApplicationLayer\\ApplicationLayer.csproj"
+              },
+              "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\MediatR.Assert\\MediatR.Assert.csproj": {
+                "projectPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\MediatR.Assert\\MediatR.Assert.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\MediatR.Assert\\MediatR.Assert.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\MediatR.Assert\\MediatR.Assert.csproj",
+        "projectName": "MediatR.Assert",
+        "projectPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\MediatR.Assert\\MediatR.Assert.csproj",
+        "packagesPath": "C:\\Users\\Ershad Raoufi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\MediatR.Assert\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ershad Raoufi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

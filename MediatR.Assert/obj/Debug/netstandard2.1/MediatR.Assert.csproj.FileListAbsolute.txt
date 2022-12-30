@@ -1,0 +1,10 @@
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\bin\Debug\netstandard2.1\MediatR.Assert.deps.json
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\bin\Debug\netstandard2.1\MediatR.Assert.dll
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\bin\Debug\netstandard2.1\MediatR.Assert.pdb
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\obj\Debug\netstandard2.1\MediatR.Assert.csproj.AssemblyReference.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\obj\Debug\netstandard2.1\MediatR.Assert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\obj\Debug\netstandard2.1\MediatR.Assert.AssemblyInfoInputs.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\obj\Debug\netstandard2.1\MediatR.Assert.AssemblyInfo.cs
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\obj\Debug\netstandard2.1\MediatR.Assert.csproj.CoreCompileInputs.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\obj\Debug\netstandard2.1\MediatR.Assert.dll
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\MediatR.Assert\obj\Debug\netstandard2.1\MediatR.Assert.pdb

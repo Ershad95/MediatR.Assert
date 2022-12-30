@@ -1,0 +1,10 @@
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\bin\Debug\netstandard2.1\Assert.deps.json
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\bin\Debug\netstandard2.1\Assert.dll
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\bin\Debug\netstandard2.1\Assert.pdb
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\obj\Debug\netstandard2.1\Assert.csproj.AssemblyReference.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\obj\Debug\netstandard2.1\Assert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\obj\Debug\netstandard2.1\Assert.AssemblyInfoInputs.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\obj\Debug\netstandard2.1\Assert.AssemblyInfo.cs
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\obj\Debug\netstandard2.1\Assert.csproj.CoreCompileInputs.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\obj\Debug\netstandard2.1\Assert.dll
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\Assert\obj\Debug\netstandard2.1\Assert.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.deps.json
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.dll
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\refint\ApplicationLayer.dll
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\Ershad Raoufi\RiderProjects\MediatR\ApplicationLayer\obj\Debug\net6.0\ref\ApplicationLayer.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsyVGWUvg6AYNpyd4YLmVKVe2mw6ExgFD+oX1oFnKTe6fvkeXSgZdyAwgEYAsRN8mkjKFV3vmsdzwdu4hASYZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ershad Raoufi\\RiderProjects\\MediatR\\ApplicationLayer\\ApplicationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ershad Raoufi\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Ershad Raoufi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
