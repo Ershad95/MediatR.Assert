@@ -10,17 +10,7 @@ public class MediatR
 {
     public MediatR()
     {
-        var x = new ErshadCommand();
-        x.TestCommand();
-        
-        var t = new ErshadQuery();
-        t.TestQuery();
-        
-        var n = new ErshadNotification();
-        n.TestNotification();
-        var nn = new ErshadNotificationHandler();
-        
-        nn.TestNotificationHandler();
+       _ = new ErshadCommand();
     }
     [Fact]
     public void MediatRCommandsValidator_CheckAllCommands_ValidationShouldBeTrue()
