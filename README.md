@@ -12,32 +12,34 @@
     <img  src="https://img.shields.io/tokei/lines/github/ershad95/MediatR.Assert?color=brightgreen&amp;style=plastic">
 
 ## Overview
-  
-
-#### CommandValidator usage : you should create object from CommandValidator for Asser Commands,for example : 
+ 
+ CommandValidator usage : you should create object from CommandValidator for Asser Commands,for example : 
 <pre> var validCommandConfiguration = new CommandValidator().IsValid();</pre>
  
-#### QueryValidator usage : you should create object from QueryValidator for Asser Queries,for example : 
+ QueryValidator usage : you should create object from QueryValidator for Asser Queries,for example : 
  <pre>var validQueryConfiguration = new QueryValidator().IsValid();</pre>
 
-#### NotificationValidator usage : you should create object from NotificationValidator for Asser Notifications,for example : 
+ NotificationValidator usage : you should create object from NotificationValidator for Asser Notifications,for example : 
 <pre> var validNotificationConfiguration = new NotificationValidator().IsValid();</pre>
  
- ## Customization:
+ ## Customization
+ #### Commands 
  you can pass the custom name for command/commandHandler:
- ##### the default value for CommandName and Handler are : "Command" and "CommandHandler" but you can custom it by bellow code :
+  the default value for CommandName and Handler are : "Command" and "CommandHandler" but you can custom it by bellow code:
  <pre>var validCommandConfiguration = new CommandValidator()
                                    .IsValid(commandNamesEndTo : "something" , 
                                    commandHandlersEndTo : "something");</pre>
- 
-   you can pass the custom name for query/queryHandler:
- ##### the default value for QueryName and Handler are : "Query" and "QueryHandler" but you can custom it by bellow code :
+
+ #### Query 
+ you can pass the custom name for query/queryHandler:
+ the default value for QueryName and Handler are : "Query" and "QueryHandler" but you can custom it by bellow code :
  <pre>var validQueryConfiguration = new QueryValidator()
                                   .IsValid(queryNamesEndTo : "something" , 
                                   queryHandlersEndTo : "something");</pre>
  
+  #### Notification
    you can pass the custom name for notification/notificationHandler:
- ##### the default value for NotificationName and Handler are : "Notification" and "NotificationHandler" but you can custom it by bellow code :
+  the default value for NotificationName and Handler are : "Notification" and "NotificationHandler" but you can custom it by bellow code :
  <pre>
   var validNotificationConfiguration = new NotificationValidator()
                                  .IsValid(notificationNamesEndTo : "something" , 
