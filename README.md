@@ -1,5 +1,5 @@
 # MediatR.Assert
-### Assert your MediatR configuration in any test framework,Maked Creative Codes with Ershad Raoufi
+### Assert your MediatR configuration in any test framework,develop Creative Codes with Ershad Raoufi
 
 ### your can use .IsValid() method for Query/Command/Notification Validation
 
