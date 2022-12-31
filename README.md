@@ -7,9 +7,7 @@
  your can use .IsValid() method for Query/Command/Notification structure Validation
 
 #### CommandValidator usage : you should create object from CommandValidator for Asser Commands,for example : 
-
  var validCommandConfiguration = new CommandValidator().IsValid();
-
 #### QueryValidator usage : you should create object from QueryValidator for Asser Queries,for example : 
  var validQueryConfiguration = new QueryValidator().IsValid();
 
