@@ -1,4 +1,5 @@
 # MediatR.Assert
+    var validCommandConfiguration = new CommandValidator().IsValid();
     
     <img _ngcontent-pst-c25="" src="https://img.shields.io/github/contributors/ershad95/MediatR.Assert?color=yellow&amp;style=plastic" />
     <img _ngcontent-pst-c25="" src="https://img.shields.io/github/languages/top/ershad95/MediatR.Assert?color=brightgreen" />
