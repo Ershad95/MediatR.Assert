@@ -1,7 +1,7 @@
 # MediatR.Assert
 ### Assert your MediatR configuration in any test framework,develop Creative Codes with Ershad Raoufi
 
-### your can use .IsValid() method for Query/Command/Notification Validation
+### your can use .IsValid() method for Query/Command/Notification structure Validation
 
 #### CommandValidator usage : you should create object from CommandValidator for Asser Commands,for example : 
  var validCommandConfiguration = new CommandValidator().IsValid();
