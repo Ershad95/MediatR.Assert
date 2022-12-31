@@ -32,14 +32,14 @@
  
    you can pass the custom name for query/queryHandler:
  ##### the default value for QueryName and Handler are : "Query" and "QueryHandler" but you can custom it by bellow code :
- <pre>var validCommandConfiguration = new QueryValidator()
+ <pre>var validQueryConfiguration = new QueryValidator()
                                   .IsValid(queryNamesEndTo : "something" , 
                                   queryHandlersEndTo : "something");</pre>
  
    you can pass the custom name for notification/notificationHandler:
  ##### the default value for NotificationName and Handler are : "Notification" and "NotificationHandler" but you can custom it by bellow code :
  <pre>
-  var validCommandConfiguration = new NotificationValidator()
+  var validNotificationConfiguration = new NotificationValidator()
                                  .IsValid(notificationNamesEndTo : "something" , 
                                  notificationHandlerNamesEndTo : "something");
  </pre>
