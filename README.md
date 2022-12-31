@@ -2,7 +2,8 @@
    
 ## Project Description
  Assert your MediatR configuration in any test framework like <b>XUnit</b> , <b>NUnit</b> , <b>MsUnit</b> , ... ,develop Creative Codes with Ershad Raoufi
-   <img src="https://img.shields.io/github/contributors/ershad95/MediatR.Assert?color=yellow&amp;style=plastic">
+    <br />
+    <img src="https://img.shields.io/github/contributors/ershad95/MediatR.Assert?color=yellow&amp;style=plastic">
     <img  src="https://img.shields.io/github/languages/top/ershad95/MediatR.Assert?color=brightgreen">
     <img  src="https://img.shields.io/github/languages/count/ershad95/MediatR.Assert?color=brightgreen">
     <img  src="https://img.shields.io/github/license/ershad95/MediatR.Assert?color=blue">
