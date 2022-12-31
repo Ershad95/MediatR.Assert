@@ -14,7 +14,7 @@
  
  <hr />
  
- #### <span style="color:green">customization: </span>
+ #### customization:
  #### you can pass the custom name for command/commandHandler:
  ###### the default value for CommandName and Handler are : "Command" and "CommandHandler" but you can custom it by bellow code :
  var validCommandConfiguration = new CommandValidator()
