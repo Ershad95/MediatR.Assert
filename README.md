@@ -1,5 +1,11 @@
 # MediatR.Assert
- <img _ngcontent-pst-c25="" src="https://img.shields.io/github/contributors/ershad95/MediatR.Assert?color=yellow&amp;style=plastic" />
+   <img _ngcontent-pst-c25="" src="https://img.shields.io/github/contributors/ershad95/MediatR.Assert?color=yellow&amp;style=plastic">
+    <img _ngcontent-pst-c25="" src="https://img.shields.io/github/languages/top/ershad95/MediatR.Assert?color=brightgreen">
+    <img _ngcontent-pst-c25="" src="https://img.shields.io/github/languages/count/ershad95/MediatR.Assert?color=brightgreen">
+    <img _ngcontent-pst-c25="" src="https://img.shields.io/github/license/ershad95/MediatR.Assert?color=blue">
+    <img _ngcontent-pst-c25="" src="https://img.shields.io/github/languages/code-size/ershad95/MediatR.Assert?color=brightgreen&amp;style=plastic">
+    <img _ngcontent-pst-c25="" src="https://img.shields.io/github/last-commit/ershad95/MediatR.Assert?color=orange&amp;style=plastic">
+    <img _ngcontent-pst-c25="" src="https://img.shields.io/tokei/lines/github/ershad95/MediatR.Assert?color=brightgreen&amp;style=plastic">
 ## Project Description
  Assert your MediatR configuration in any test framework,develop Creative Codes with Ershad Raoufi
   
