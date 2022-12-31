@@ -4,30 +4,32 @@
  Assert your MediatR configuration in any test framework,develop Creative Codes with Ershad Raoufi
   
 ## Overview
-   var validCommandConfiguration = new CommandValidator().IsValid();
+  
 
 #### CommandValidator usage : you should create object from CommandValidator for Asser Commands,for example : 
-
+<pre> var validCommandConfiguration = new CommandValidator().IsValid();</pre>
  
 #### QueryValidator usage : you should create object from QueryValidator for Asser Queries,for example : 
- var validQueryConfiguration = new QueryValidator().IsValid();
+ <pre>var validQueryConfiguration = new QueryValidator().IsValid();</pre>
 
 #### NotificationValidator usage : you should create object from NotificationValidator for Asser Notifications,for example : 
- var validNotificationConfiguration = new NotificationValidator().IsValid();
+<pre> var validNotificationConfiguration = new NotificationValidator().IsValid();</pre>
  
  ## Customization:
  you can pass the custom name for command/commandHandler:
  ##### the default value for CommandName and Handler are : "Command" and "CommandHandler" but you can custom it by bellow code :
- var validCommandConfiguration = new CommandValidator()
-                                   .IsValid(commandNamesEndTo : "something" , commandHandlersEndTo : "something");
+ <pre>var validCommandConfiguration = new CommandValidator()
+                                   .IsValid(commandNamesEndTo : "something" , commandHandlersEndTo : "something");</pre>
  
    you can pass the custom name for query/queryHandler:
  ##### the default value for QueryName and Handler are : "Query" and "QueryHandler" but you can custom it by bellow code :
- var validCommandConfiguration = new QueryValidator()
-                                  .IsValid(queryNamesEndTo : "something" , queryHandlersEndTo : "something");
+ <pre>var validCommandConfiguration = new QueryValidator()
+                                  .IsValid(queryNamesEndTo : "something" , queryHandlersEndTo : "something");</pre>
  
    you can pass the custom name for notification/notificationHandler:
  ##### the default value for NotificationName and Handler are : "Notification" and "NotificationHandler" but you can custom it by bellow code :
- var validCommandConfiguration = new NotificationValidator()
+ <pre>
+  var validCommandConfiguration = new NotificationValidator()
                                  .IsValid(notificationNamesEndTo : "something" , notificationHandlerNamesEndTo : "something");
+ </pre>
 
