@@ -11,7 +11,7 @@
 
 #### NotificationValidator usage : you should create object from NotificationValidator for Asser Notifications,for example : 
  var validNotificationConfiguration = new NotificationValidator().IsValid();
- 
+ <hr />
  #### customization: 
  #### you can pass the custom name for command/commandHandler:
  ###### the default value for CommandName and Handler are : "Command" and "CommandHandler" but you can custom it by bellow code :
