@@ -4,7 +4,7 @@
  Assert your MediatR configuration in any test framework,develop Creative Codes with Ershad Raoufi
   
 ## Overview
- var validCommandConfiguration = new CommandValidator().IsValid();
+   var validCommandConfiguration = new CommandValidator().IsValid();
 
 #### CommandValidator usage : you should create object from CommandValidator for Asser Commands,for example : 
 
