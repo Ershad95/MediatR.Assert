@@ -27,17 +27,20 @@
  you can pass the custom name for command/commandHandler:
  ##### the default value for CommandName and Handler are : "Command" and "CommandHandler" but you can custom it by bellow code :
  <pre>var validCommandConfiguration = new CommandValidator()
-                                   .IsValid(commandNamesEndTo : "something" , commandHandlersEndTo : "something");</pre>
+                                   .IsValid(commandNamesEndTo : "something" , 
+                                   commandHandlersEndTo : "something");</pre>
  
    you can pass the custom name for query/queryHandler:
  ##### the default value for QueryName and Handler are : "Query" and "QueryHandler" but you can custom it by bellow code :
  <pre>var validCommandConfiguration = new QueryValidator()
-                                  .IsValid(queryNamesEndTo : "something" , queryHandlersEndTo : "something");</pre>
+                                  .IsValid(queryNamesEndTo : "something" , 
+                                  queryHandlersEndTo : "something");</pre>
  
    you can pass the custom name for notification/notificationHandler:
  ##### the default value for NotificationName and Handler are : "Notification" and "NotificationHandler" but you can custom it by bellow code :
  <pre>
   var validCommandConfiguration = new NotificationValidator()
-                                 .IsValid(notificationNamesEndTo : "something" , notificationHandlerNamesEndTo : "something");
+                                 .IsValid(notificationNamesEndTo : "something" , 
+                                 notificationHandlerNamesEndTo : "something");
  </pre>
 
