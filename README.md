@@ -1,7 +1,7 @@
 # MediatR.Assert
    
 ## Project Description
- Assert MediatR configuration in any test framework like <b>XUnit</b> , <b>NUnit</b> , <b>MsUnit</b> , ... ,develop Creative Codes with Ershad Raoufi
+ Assert MediatR configuration in any test framework like <b>XUnit</b> , <b>NUnit</b> , <b>MsUnit</b>,...developed Creative Codes with Ershad Raoufi/ارشاد رئوفی
     <br />
     <img src="https://img.shields.io/github/contributors/ershad95/MediatR.Assert?color=yellow&amp;style=plastic">
     <img  src="https://img.shields.io/github/languages/top/ershad95/MediatR.Assert?color=brightgreen">
