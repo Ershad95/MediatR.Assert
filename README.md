@@ -45,4 +45,5 @@
                                  .IsValid(notificationNamesEndTo : "something" , 
                                  notificationHandlerNamesEndTo : "something");
  </pre>
+ just for Persian Developer : https://www.dntips.ir/post/3436/%d8%aa%d8%b3%d8%aa-%da%a9%d8%b1%d8%af%d9%86-command-command-handler-%d9%87%d8%a7-%d8%af%d8%b1-mediatr 
 
