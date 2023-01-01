@@ -45,5 +45,5 @@
                                  .IsValid(notificationNamesEndTo : "something" , 
                                  notificationHandlerNamesEndTo : "something");
  </pre>
- just for Persian Developer : https://www.dntips.ir/post/3436
+ just for Persian Developer : https://dntips.ir/post/3436
 
